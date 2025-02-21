@@ -9,6 +9,8 @@ The repository is organized into 4 main notebook:
 3. Model training: Uses `transformed_features.csv` to try a variety of ML models.
 4. Evaluation: Uses `results.csv` to analyse the errors of different models proposed.
 
+The final model submitted as a final submission was a 0.65-0.35 ensemble model of Linear Regression and a Transformer that is not presented here. Achieving the 31st place (top 1%) in the private leaderboard.
+
 
 @misc{playground-series-s5e1,
     author = {Walter Reade and Elizabeth Park},
