@@ -13,6 +13,7 @@ The final model submitted as a final submission was a 0.65-0.35 ensemble model o
 
 ![image](https://github.com/user-attachments/assets/62ae56a1-c2ec-4f2d-879e-6c7de0593d8e)
 
+```bibtex
 @misc{playground-series-s5e1,
     author = {Walter Reade and Elizabeth Park},
     title = {Forecasting Sticker Sales},
